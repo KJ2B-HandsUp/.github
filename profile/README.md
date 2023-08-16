@@ -79,3 +79,5 @@
 [HandsUp-발표자료](./public/HandsUp-발표자료.pdf)
 
 ## 최종발표 시연 영상
+
+[![발표영상](./public/HandsUp-썸네일.jpg)](https://youtu.be/omoCHSM-2M0)
